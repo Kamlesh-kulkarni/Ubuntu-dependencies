@@ -9,3 +9,8 @@ Run the script in terminal
 ```./env.sh``` in terminal.
 #### Note: You can also comment the dependencies you don't want to install
 Comment the code in bash script by applying ```## this is the comment``` in bash script.
+
+```
+sudo apt update
+sudo apt install build-essential
+```
